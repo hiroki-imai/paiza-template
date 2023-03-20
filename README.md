@@ -1,5 +1,7 @@
 # リポジトリを自分のリポジトリにコピー
-
+1. Use this template > Create a new repository
+2. Repository name入力 -> privateを選択 -> Create repository from template
+3. `{アカウントID}/{Repository name}` が作成されるのでgit clone
 
 # PHP実行環境(8.0)の立ち上げ
 1. docker compose up -d
