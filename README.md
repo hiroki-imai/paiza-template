@@ -1,5 +1,5 @@
 # リポジトリを自分のリポジトリにコピー
-1. Use this template > Create a new repository
+1. (本リポジトリ画面で) Use this template > Create a new repository
 2. Repository name入力 -> privateを選択 -> Create repository from template
 3. `{アカウントID}/{Repository name}` が作成されるのでgit clone
 
@@ -22,6 +22,6 @@
 
 ### 例2．Dランクの000番の問題を「input2.txt」を入力として実行確認  
 `sh test.sh D 000 input2.txt`
-※第3引数を指定すると入力を変更できる
+※第3引数を指定すると入力ファイルを変更できる
 
 
